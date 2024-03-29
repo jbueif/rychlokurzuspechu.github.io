@@ -1,0 +1,1 @@
+# rychlokurzuspechu.github.io
