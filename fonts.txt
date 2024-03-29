@@ -1,0 +1,149 @@
+@import url(font-awesome.min.css);
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700|Pacifico");
+<a href="#" class="button alt">Alternate</a></li>
+            </ul><ul class="actions small"><li><a href="#" class="button special small">Small</a></li>
+                <li><a href="#" class="button small">Small</a></li>
+                <li><a href="#" class="button alt small">Small</a></li>
+            </ul><div class="row">
+                <div class="3u 6u(small) 12u$(xsmall)">
+                    <ul class="actions vertical"><li><a href="#" class="button special">Vertical</a></li>
+                        <li><a href="#" class="button">Vertical</a></li>
+                        <li><a href="#" class="button alt">Vertical</a></li>
+                    </ul></div>
+                <div class="3u 6u$(small) 12u$(xsmall)">
+                    <ul class="actions vertical small"><li><a href="#" class="button special small">Small</a></li>
+                        <li><a href="#" class="button small">Small</a></li>
+                        <li><a href="#" class="button alt small">Small</a></li>
+                    </ul></div>
+                <div class="3u 6u(small) 12u$(xsmall)">
+                    
+                        <li><a href="#" class="button fit">Fit</a></li>
+                        
+                    </ul></div>
+                <div class="3u$ 6u$(small) 12u$(xsmall)">
+                    <ul class="actions vertical small"><li><a href="#" class="button special small fit">Small</a></li>
+                        <li><a href="#" class="button small fit">Small</a></li>
+                        <li><a href="#" class="button alt small fit">Small</a></li>
+                    </ul></div>
+					<li>
+            </div>
+        </section><!-- Table --><section><h3>Table</h3>
+            <h4>Default</h4>
+            <div class="table-wrapper">
+                <table><thead><tr><th>Name</th>
+                        <th>Description</th>
+                        <th>Price</th>
+                    </tr></thead><tbody><tr><td>Item 1</td>
+                        <td>Ante turpis integer aliquet porttitor.</td>
+                        <td>29.99</td>
+                    </tr><tr><td>Item 2</td>
+                        <td>Vis ac commodo adipiscing arcu aliquet.</td>
+                        <td>19.99</td>
+                    </tr><tr><td>Item 3</td>
+                        <td> Morbi faucibus arcu accumsan lorem.</td>
+                        <td>29.99</td>
+                    </tr><tr><td>Item 4</td>
+                        <td>Vitae integer tempus condimentum.</td>
+                        <td>19.99</td>
+                    </tr><tr><td>Item 5</td>
+                        <td>Ante turpis integer aliquet porttitor.</td>
+                        <td>29.99</td>
+                    </tr></tbody><tfoot><tr><td colspan="2"></td>
+                        <td>100.00</td>
+                    </tr></tfoot></table></div>
+            <h4>Alternate</h4>
+            <div class="table-wrapper">
+                <table class="alt"><thead><tr><th>Name</th>
+                        <th>Description</th>
+                        <th>Price</th>
+                    </tr></thead><tbody><tr><td>Item 1</td>
+                        <td>Ante turpis integer aliquet porttitor.</td>
+                        <td>29.99</td>
+                    </tr><tr><td>Item 2</td>
+                        <td>Vis ac commodo adipiscing arcu aliquet.</td>
+                        <td>19.99</td>
+                    </tr><tr><td>Item 3</td>
+                        <td> Morbi faucibus arcu accumsan lorem.</td>
+                        <td>29.99</td>
+                    </tr><tr><td>Item 4</td>
+                        <td>Vitae integer tempus condimentum.</td>
+                        <td>19.99</td>
+                    </tr><tr><td>Item 5</td>
+                        <td>Ante turpis integer aliquet porttitor.</td>
+                        <td>29.99</td>
+                    </tr></tbody><tfoot><tr><td colspan="2"></td>
+                        <td>100.00</td>
+                    </tr></tfoot></table></div>
+        </section><!-- Buttons --><section><h3>Buttons</h3>
+            <ul class="actions"><li><a href="#" class="button special">Special</a></li>
+                <li><a href="#" class="button">Default</a></li>
+                <li><a href="#" class="button alt">Alternate</a></li>
+            </ul><ul class="actions"><li><a href="#" class="button special big">Big</a></li>
+                <li><a href="#" class="button">Default</a></li>
+                <li><a href="#" class="button alt small">Small</a></li>
+            </ul><div class="row">
+                <div class="6u 12u$(xsmall)">
+                    <ul class="actions fit"><li><a href="#" class="button fit">Fit</a></li>
+                        <li><a href="#" class="button alt fit">Fit</a></li>
+                    </ul></div>
+                <div class="6u$ 12u$(xsmall)">
+                    <ul class="actions fit small"><li><a href="#" class="button fit small">Fit + Small</a></li>
+                        <li><a href="#" class="button alt fit small">Fit + Small</a></li>
+                    </ul></div>
+            </div>
+            <ul class="actions"><li><a href="#" class="button special icon fa-download">Icon</a></li>
+                <li><a href="#" class="button icon fa-download">Icon</a></li>
+                <li><a href="#" class="button alt icon fa-download">Icon</a></li>
+            </ul><ul class="actions"><li><span class="button special disabled">Special</span></li>
+                <li><span class="button disabled">Default</span></li>
+                <li><span class="button alt disabled">Alternate</span></li>
+            </ul></section><!-- Form --><section><h3>Form</h3>
+            <form method="post" action="#">
+                <div class="row uniform 50%">
+                    <div class="6u 12u$(xsmall)">
+                        <input type="text" name="demo-name" id="demo-name" value="" placeholder="Name"><div data-lastpass-icon-root="true" style="position: relative !important; height: 0px !important; width: 0px !important; float: left !important;"></div></div>
+                    <div class="6u$ 12u$(xsmall)">
+                        <input type="email" name="demo-email" id="demo-email" value="" placeholder="Email"></div>
+                    <div class="12u$">
+                        <div class="select-wrapper">
+                            <select name="demo-category" id="demo-category"><option value="">- Category -</option><option value="1">Manufacturing</option><option value="1">Shipping</option><option value="1">Administration</option><option value="1">Human Resources</option></select></div>
+                    </div>
+                    <div class="4u 12u$(xsmall)">
+                        <input type="radio" id="priority-low" name="priority" checked><label for="priority-low">Low Priority</label>
+                    </div>
+                    <div class="4u 12u$(xsmall)">
+                        <input type="radio" id="priority-normal" name="priority"><label for="priority-normal">Normal Priority</label>
+                    </div>
+                    <div class="4u$ 12u$(xsmall)">
+                        <input type="radio" id="priority-high" name="priority"><label for="priority-high">High Priority</label>
+                    </div>
+                    <div class="6u 12u$(small)">
+                        <input type="checkbox" id="copy" name="copy"><label for="copy">Email me a copy of this message</label>
+                    </div>
+                    <div class="6u$ 12u$(small)">
+                        <input type="checkbox" id="human" name="human" checked><label for="human">I am a human and not a robot</label>
+                    </div>
+                    <div class="12u$">
+                        <textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6" data-gramm="false" wt-ignore-input="true"></textarea></div>
+                    <div class="12u$">
+                        <ul class="actions"><li><input type="submit" value="Send Message" class="special"></li>
+                            <li><input type="reset" value="Reset"></li>
+                        </ul></div>
+                </div>
+            </form>
+        </section><!-- Image --><section><h3>Image</h3>
+            <h4>Fit</h4>
+            <div class="box alt">
+                <div class="row 50% uniform">
+                    <div class="12u$"><span class="image fit"><img src="images/pic11.jpg" alt=""></span></div>
+                    <div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt=""></span></div>
+                    <div class="4u"><span class="image fit"><img src="images/pic04.jpg" alt=""></span></div>
+                    <div class="4u$"><span class="image fit"><img src="images/pic05.jpg" alt=""></span></div>
+                    <div class="4u"><span class="image fit"><img src="images/pic05.jpg" alt=""></span></div>
+                    <div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt=""></span></div>
+                    <div class="4u$"><span class="image fit"><img src="images/pic04.jpg" alt=""></span></div>
+                    <div class="4u"><span class="image fit"><img src="images/pic04.jpg" alt=""></span></div>
+                    <div class="4u"><span class="image fit"><img src="images/pic05.jpg" alt=""></span></div>
+                    <div class="4u$"><span class="image fit"><img src="images/pic03.jpg" alt=""></span></div>
+                </div>
+            </div>
